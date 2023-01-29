@@ -1,0 +1,14 @@
+1001 a b c 1
+1003 a h mahi 1
+1004 1 1 1 1
+1005 1 1 2 3
+1006 a abzi mahal zendegi
+1007 1  a s
+1008 1 
+sxds mah 3
+1009 a 
+ali deymeks ss
+1009 1  asda as
+1009 1  aa aa
+1009 1 mahi 1 asdfgh
+1009 a abzi,red,fak mahi 1
